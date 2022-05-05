@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Miniver&family=Roboto+Slab&display=swap");
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Miniver', cursive;
+    font-family: 'Roboto Slab', serif; 
+}
+.navbar{
+    background-color: rgb(100, 199, 232);
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    color: rgb(48, 106, 229);
+}
+.navbar a{
+    font-size: 1.5rem;
+    text-transform: capitalize; 
+}
+.menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid brown;
+}
+.navbar a:hover{
+    color: green;
+}
+.progress{
+    height: 2px;
+}
+.progress-bar{
+    width: 0%;
+}
