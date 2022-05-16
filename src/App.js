@@ -6,7 +6,8 @@ import Contactus from "./Contactus";
 import Login from "./Login";
 import Navbar from "./Navbar";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min";
+import "../node_modules/bootstrap/dist/js/bootstrap.min";
 import { Switch,Route,Redirect } from "react-router-dom";
 const App = () =>{
     return (<>
