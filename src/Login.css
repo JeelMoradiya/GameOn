@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Miniver&family=Roboto+Slab&display=swap");
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Miniver', cursive;
+    font-family: 'Roboto Slab', serif; 
+}
+section{
+    background-color: #508bfc;
+}
+#d1{
+    border-radius: 1.5rem;
+}
